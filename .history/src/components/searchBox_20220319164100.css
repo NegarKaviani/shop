@@ -1,0 +1,10 @@
+.search-holder{
+    text-align: center;
+    margin: 80px 0;
+}
+.search-box{
+    background: transparent;
+    border: none;
+    box-shadow: 1px 0 8px #ccc;
+    padding: 10px 30px;
+}

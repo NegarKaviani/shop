@@ -1,0 +1,7 @@
+.search-box{
+    width: 200px;
+    margin:0 auto;
+    background: transparent;
+    border: none;
+    box-shadow: 1px 0 8px #ccc;
+}

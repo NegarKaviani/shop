@@ -1,0 +1,14 @@
+.search-holder{
+    text-align: center;
+    margin: 50px 0 80px;
+}
+.search-box{
+    background: transparent;
+    border: none;
+    box-shadow: 1px 0 8px #ccc;
+    padding: 10px 50px;
+    border-radius: 10px;
+}
+.search-box:focus-visible , .search-box:active{
+    border: none;
+}

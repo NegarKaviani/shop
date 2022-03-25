@@ -73,6 +73,5 @@ ul{
     margin: 0 auto;
 }
 .modal-footer{
-    justify-content: center !important; 
-    padding: 25px !important;
+    justify-content: center;
 }

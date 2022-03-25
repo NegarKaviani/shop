@@ -68,11 +68,6 @@ ul{
 .pagination{
     margin: 50px 0;
 }
-.modal-content > img{
-    padding: 20px;
-    margin: 0 auto;
-}
 .modal-footer{
-    justify-content: center !important; 
-    padding: 25px !important;
+    justify-content: center;
 }
